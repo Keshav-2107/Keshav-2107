@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm currently pursuing B.Tech in Cse.<br>I have a very  keen insterest in learning new skills.<br>I would love to take part in projects to enhance my skillset.
 
 
