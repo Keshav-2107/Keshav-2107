@@ -13,5 +13,4 @@ I'm currently pursuing B.Tech in Cse.<br>I have a very  keen insterest in learni
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Keshav-2107&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-2107&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Keshav-2107&icon=0&color=0)](https://visitcount.itsvg.in)
+
